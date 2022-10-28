@@ -9,7 +9,7 @@
         <p>Please fill in this form to create an account.</p>
         <hr>
     
-        <label for="email"><b>Email</b></label>
+        <label for="email"><b>Email ID:</b></label>
         <input type="text" placeholder="Enter Email" name="email" required>
     
         <label for="psw"><b>Password</b></label>
